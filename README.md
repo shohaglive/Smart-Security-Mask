@@ -2,7 +2,11 @@
 
 SmarT Security Mask Overview
 
-    SmarT Security Mask is a windows application which will allow you to protect folders which is/are contains your private data. After successful installation of this software run it and set your own password (you will be asked for set a new password only at the first installation). After set or enter your password press OK. From the main screen click to Browse button from the mask panel to choose your folder to Protect or Unprotect. After that click Protect button (if you want to hide the folder check the Hide checkbox) to protect the folder or click Unprotect to unmask the folder if it previously protected.
+    SmarT Security Mask is a windows application which will allow you to protect folders which is/are contains your private data.
+    After successful installation of this software run it and set your own password (you will be asked for set a new password
+    only at the first installation). After set or enter your password press OK. From the main screen click to Browse button from
+    the mask panel to choose your folder to Protect or Unprotect. After that click Protect button (if you want to hide the folder
+    check the Hide checkbox) to protect the folder or click Unprotect to unmask the folder if it previously protected.
 
 What's New
 
@@ -12,7 +16,7 @@ What's New
     2. New Mask styles
     3. Auto lock options
     4. More user interactively designed
-    5. Lunch folder properties opportunity when protect
+    5. Launch folder properties opportunity when protect
     6. Stylist Graphical user interface
     7. Audio features
     8. No dependency on .net framework so works easily even to a low configured PC . And Many More...
